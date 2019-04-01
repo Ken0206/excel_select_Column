@@ -1,10 +1,10 @@
 ### convert_excel.py
 ```
-±N source.xlsx §ì¦Û©wªº¦æ¡A¥t¦s¨ì output.xlsx
+å°‡ source.xlsx æŠ“è‡ªå®šçš„è¡Œï¼Œå¦å­˜åˆ° output.xlsx
 ```
 ---
 ### download.xls
 ```
-­ì¨Ó¬O csv ÀÉ¡A¥Î Excel ¶}±Ò«á¡A¥t¦s¬° source.xlsx
-¥H¨Ñ convert_excel.py ÂàÀÉ
+åŸä¾†æ˜¯ csv æª”ï¼Œç”¨ Excel é–‹å•Ÿå¾Œï¼Œå¦å­˜ç‚º source.xlsx
+ä»¥ä¾› convert_excel.py è½‰æª”
 ```
